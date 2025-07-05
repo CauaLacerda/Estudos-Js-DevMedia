@@ -1,10 +1,13 @@
 const dataUltimoAcesso = new Date('2020/11/11 17:00:00');
 const dataAtual = new Date();
+let index = 0;
 
 const hora = dataAtual.getHours();
 
+
 const timeUltimoAcesso = dataUltimoAcesso.getTime();
 const timeAtual = dataAtual.getTime();
+
 
 const diferencaTime = timeAtual - timeUltimoAcesso;
 
