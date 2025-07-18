@@ -1,3 +1,4 @@
+// utilize funções nativas para imprir somente o nome dos produtos
 const produtos = [
   { id: 1, nome: 'Açúcar', ativo: true, valor: 2.00 },
   { id: 2, nome: 'Álcool 70', ativo: false, valor: 9.95 },
