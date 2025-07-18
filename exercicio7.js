@@ -1,3 +1,4 @@
+//Crie um array com apenas os carros que sejam do modelo e marca definido.
 const carros = [
   { marca: 'Fiat', modelo: 'Uno', anoFabricacao: 2015 },
   { marca: 'GM', modelo: 'Onix', anoFabricacao: 2018 },
