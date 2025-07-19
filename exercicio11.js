@@ -13,3 +13,5 @@ const mediaTurmaAv1 = alunos.reduce((total, aluno) => {
 },0);
 
 console.log( mediaTurmaAv1 / qntAlunos );
+
+
